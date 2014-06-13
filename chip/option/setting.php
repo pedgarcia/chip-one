@@ -15,12 +15,10 @@ if ( ! isset( $_REQUEST['updated'] ) ) {
      </div>
    </div>
    <div class="wp_themeSkin padding10">
-     <p>Thanks of using <?php echo get_current_theme(); ?> WordPress theme and to become a part of <a href="http://www.tutorialchip.com/" class="chipzeroadmin">TutorialChip</a> family. We take care our family by providing a professional and an instant support at <strong><?php echo get_current_theme(); ?> forum</strong>. We are just a few clicks away from you.</p>
+     <p>Thanks of using <?php echo get_current_theme(); ?> WordPress theme and to become a part of <a href="https://github.com/pedgarcia/chip-one" class="chipzeroadmin">TutorialChip</a> family. We take care our family by providing a professional and an instant support at <strong><?php echo get_current_theme(); ?> forum</strong>. We are just a few clicks away from you.</p>
      <p>
-       <a href="http://forums.tutorialchip.com/forums/5-Chip-Zero" class="chipzeroadmin"><?php echo get_current_theme(); ?> Forum</a> &sdot;
-       <a href="http://www.tutorialchip.com/chip-zero-free-premium-wordpress-theme/" class="chipzeroadmin"><?php echo get_current_theme(); ?> Official Page</a> &sdot;
-       <a href="http://chip-zero.tutorialchip.com/" class="chipzeroadmin"><?php echo get_current_theme(); ?> Demo Page</a> &sdot;
-       <a href="http://www.tutorialchip.com/" class="chipzeroadmin">More WordPress Themes</a>
+       <a href="https://github.com/pedgarcia/chip-one/issues" class="chipzeroadmin"><?php echo get_current_theme(); ?> Issue Tracker</a> &sdot;
+       <a href="https://github.com/pedgarcia/chip-one/" class="chipzeroadmin"><?php echo get_current_theme(); ?> Official Page</a> &sdot;
      </p>
    </div>   
   </div>

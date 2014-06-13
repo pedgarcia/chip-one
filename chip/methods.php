@@ -5,7 +5,7 @@
 
 function chip_zero_register_style() {
 	 
-	 wp_register_style( 'chip_zero_base_style', CHIP_ZERO_URLPATH . 'style.css', array(), '1.2' );
+	 wp_register_style( 'chip_zero_base_style', CHIP_ZERO_URLPATH . 'style.css', array(), '1.0' );
 
 }
 
