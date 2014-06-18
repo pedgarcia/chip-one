@@ -5,8 +5,8 @@
   <div id="contentdata">    
     
     <!-- Begin Content Left -->
-    <div id="contentleft">
-      <div id="contentleftdata">    
+    <div id="contentmiddle">
+      <div id="contentmiddledata">    
 		
 		<?php
         locate_template( array( CHIP_ZERO_FSROOT . 'common/post-loop.php' ), true, false );

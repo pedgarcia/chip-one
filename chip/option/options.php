@@ -98,7 +98,7 @@ class Chip_Zero_Options {
 		
 		function chip_admin_menu() {
 		
-			$page = add_theme_page( 'Chip Zero Theme Options', 'Chip Zero Theme Options', 'edit_theme_options', 'theme_options', array( 'Chip_Zero_Options', 'chip_setting_fn' ) );
+			$page = add_theme_page( 'Chip One Theme Options', 'Chip One Theme Options', 'edit_theme_options', 'theme_options', array( 'Chip_Zero_Options', 'chip_setting_fn' ) );
 			/* Using registered $page handle to hook stylesheet loading */
 			add_action( 'admin_print_styles-' . $page, array( 'Chip_Zero_Options', 'chip_admin_styles_fn' ) );
 		

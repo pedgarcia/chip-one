@@ -5,8 +5,8 @@
   <div id="contentdata">    
     
     <!-- Begin Content Left -->
-    <div id="contentleft">
-      <div id="contentleftdata">    
+    <div id="contentmiddle">
+      <div id="contentmiddledata">    
 		
 		<div class="chipboxm1 chipstyle2">
           <div class="chipboxm1data">    

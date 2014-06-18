@@ -5,8 +5,8 @@
   <div id="contentdata">    
     
     <!-- Begin Content Left -->
-    <div id="contentleft">
-      <div id="contentleftdata">    
+    <div id="contentmiddle">
+      <div id="contentmiddledata">    
 		
         <?php
         if ( ! have_posts() ):	

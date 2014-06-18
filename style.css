@@ -154,10 +154,13 @@ a.img1:hover {color:#2200d6;}
 #footer {background-color:#32495b;}
 #footerdata{padding:15px;}
 
-#contentleft {width:710px;float:right;background-color:#32495b;}
-#contentleftdata{padding:10px;}
+#contentleft {width:180px;float:left;background-color:#32495b;}
+#contentleftdata {}
 
-#contentright {width:200px;float:left;background-color:#32495b;}
+#contentmiddle {margin-left:+20px;width:530px;display:inline-block;background-color:#32495b;}
+#contentmiddledata{padding:10px;}
+
+#contentright {width:180px;float:right;background-color:#32495b;}
 #contentrightdata {}
 
 /*
@@ -171,7 +174,7 @@ a.img1:hover {color:#2200d6;}
 .chipboxgriddata {width:100%;overflow:hidden;}
 
 .chipboxm1 {width:100%;}
-.chipboxm1data {width:555px;padding:10px;overflow:hidden;}
+.chipboxm1data {width:495px;padding:10px;overflow:hidden;}
 
 .chipboxw1{width:100%;}
 .chipboxw1data{width:100%;overflow:hidden;}
