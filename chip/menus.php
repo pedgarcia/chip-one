@@ -8,6 +8,7 @@ function chip_zero_menus() {
 		array(
 			'primary-menu'		=>	__( 'Primary Menu' ),
 			'secondary-menu'	=>	__( 'Secondary Menu' ),
+			'side-menu'	=>	__( 'Side Menu' ),
 		)
 	);
 }
